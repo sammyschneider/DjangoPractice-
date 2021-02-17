@@ -25,7 +25,7 @@ SECRET_KEY = '!pz(m&ccg(kj7w_d2c_!39fr^k960fqve!kfq1qn)cz)2ug^@j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://morning-basin-77217.herokuapp.com' ,'127.0.0.1' ]
 
 
 # Application definition
